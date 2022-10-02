@@ -1,4 +1,4 @@
-(function () {
+тзч(function () {
   const days = document.getElementById("time__days");
   const hour = document.getElementById("time__hour");
   const minutes = document.getElementById("time__minutes");

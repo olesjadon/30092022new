@@ -16,5 +16,12 @@ padding-right: 10%;
     object-fit: cover;
     width: 90%;
     height: 70%;
-   
+   }
+   .link-button_about_cilantro{
+    color: #192b42;
+    border: 1px  solid;
+     cursor: pointer;
+    display: inline-block;
+    padding: 5px 10px;
+    font-size: l6px;
    }
